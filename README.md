@@ -1,4 +1,4 @@
-##📊 Análise de Renúncias Fiscais no Brasil - 2024
+## 📊 Análise de Renúncias Fiscais no Brasil - 2024
 
 Bem-vindo(a) ao meu primeiro repositório no GitHub! 🚀
 
