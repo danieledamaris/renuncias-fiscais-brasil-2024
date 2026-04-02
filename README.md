@@ -1,4 +1,4 @@
-📊 Análise de Renúncias Fiscais no Brasil - 2024
+##📊 Análise de Renúncias Fiscais no Brasil - 2024
 
 Bem-vindo(a) ao meu primeiro repositório no GitHub! 🚀
 
@@ -32,6 +32,7 @@ O repositório contém os seguintes arquivos:
 
 ---
 Feito com dedicação por **Daniele Damaris Araujo** 👩‍💻. Conecte-se comigo e acompanhe minha jornada na análise de dados!
+[Linkedin](https://www.linkedin.com/in/danieledamaris)
 
 Agradecimento ao professor **Mayko Costa** por todo incentivo e apoio na criação desse projeto. 
 Este projeto é o Trabalho de Conclusão do Curso de **Programação em Python para Data Science - SENAI Guarulhos Dutra - Abril/ 2026**
